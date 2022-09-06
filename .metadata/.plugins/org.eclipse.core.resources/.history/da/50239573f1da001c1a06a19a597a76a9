@@ -1,0 +1,27 @@
+package entities.classes.concretes;
+
+import java.util.Random;
+
+import entities.Classe;
+import entities.classes.Guerreiro;
+
+public class GuerreiroConcrete extends Classe implements Guerreiro {
+
+	public GuerreiroConcrete() {
+		setAtributos();
+		
+	}
+	
+	public void levelUp() {
+		
+	}
+	
+	public void setAtributos() {
+		jogador.setForca(14);
+		jogador.setConstituicao(12);
+		jogador.setDestreza(12);
+		jogador.setSabedoria(8);
+		jogador.setInteligencia(10);
+		jogador.setCarisma(10);
+	}
+}
