@@ -20,7 +20,6 @@
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="model.services.BrazilTaxService"/>
     <fullyQualifiedTypeName name="model.services.PaymentService"/>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="entities.Classe"/>
     <fullyQualifiedTypeName name="entities.AbstractClasse"/>
@@ -36,7 +35,10 @@
     <fullyQualifiedTypeName name="entities.classes.Guerreiro"/>
     <fullyQualifiedTypeName name="entities.classes.Arqueiro"/>
     <fullyQualifiedTypeName name="entities.BusinessAccount"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="services.OnlinePaymentService"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
 </qualifiedTypeNameHistroy>
